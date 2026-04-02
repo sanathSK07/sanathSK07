@@ -47,15 +47,6 @@ I build AI-powered applications that solve real problems — from intelligent ch
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanathSK07&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathSK07&layout=compact&hide_border=true&langs_count=6" height="160" />
-</p>
-
----
-
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanath-kamaraj-43515930a/)
