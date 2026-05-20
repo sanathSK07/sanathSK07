@@ -1,6 +1,6 @@
 # Hey, I'm Sanath 👋
 
-**AI/ML Engineering • Full-Stack Development • York University '27**
+**AI/ML Engineering • Full-Stack Development • Cybersecurity**
 
 I build AI-powered applications that solve real problems — from intelligent chatbots to predictive ML systems. Currently pursuing a BA in Information Technology at York University, focused on shipping production-ready projects, not just tutorials.
 
